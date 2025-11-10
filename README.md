@@ -1,12 +1,14 @@
 <h2 align="left">hi 👋! i'm raymund m. montinola jr — an IT student from mapúa university 🎓</h2>
 
+<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat smashing keyboard" />
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmontinola&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
 </div>
 
-###
+### 
 
 <h3 align="left">🧠 what i've learned so far</h3>
 
@@ -17,18 +19,12 @@
 - github, version control, ci/cd  
 - and lots of debugging pain 😭  
 
+...
+
 ###
 
-<h3 align="left">🧩 projects i've worked on (with chatgpt)</h3>
 
-- 🐶 **dog adoption system (frontend + backend)** — react + .net build with dashboards, file uploads, and admin routes  
-- ☁️ **oracle cloud setup** — picked the right region and deployed stuff properly  
-- 🧱 **angular basics + testing** — learned @Input/@Output decorators and jasmine tests  
-- 🔒 **cybersecurity writeups** — summarized attacks + new defense tech for school  
-- 🎨 **css/ui tweaks** — pastel dashboards, hover effects, and responsive layouts  
-- 💬 **school essays & reflections** — short-form writing + chill humor  
 
----
 
 <h3 align="left">⚡ tools & tech stack</h3>
 
