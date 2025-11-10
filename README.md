@@ -1,4 +1,4 @@
-<h2 align="left">hi 👋! I'm Raymund M. Montinola Jr. - an IT student from mapúa university 🎓</h2>
+<h2 align="left">Hi 👋! I'm Raymund M. Montinola Jr. - an IT student from Mapúa University 🎓</h2>
 
 <img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat smashing keyboard" />
 
@@ -64,7 +64,6 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rmontinola&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=rmontinola&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
