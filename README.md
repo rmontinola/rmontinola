@@ -1,4 +1,4 @@
-<h2 align="left">hi 👋! i'm Raymund M. Montinola Jr. - an IT student from mapúa university 🎓</h2>
+<h2 align="left">hi 👋! I'm Raymund M. Montinola Jr. - an IT student from mapúa university 🎓</h2>
 
 <img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat smashing keyboard" />
 
