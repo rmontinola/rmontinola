@@ -1,0 +1,31 @@
+
+name: generate-pacman-graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧩 clone repo
+        uses: actions/checkout@v4
+
+      - name: ⚙️ generate pac-man contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: rmontinola
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: 🚀 push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
